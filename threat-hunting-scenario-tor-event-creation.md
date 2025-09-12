@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  12, 2025`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `September  12, 2025`  | `Cherine Joseph`   
